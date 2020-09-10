@@ -9,7 +9,7 @@
 To run a calculation, pass in two parameters:
 * The Width of one wall 
 * The length of one wall 
-* Will return with waste and without waste
+* Will return with waste and without waste !
 #### Example:
 
 ```
