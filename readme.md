@@ -58,4 +58,4 @@ I used the yargs package [Yargs package] for the processing of the command line 
 
 
 
-[Gerald's Image]: https://www.clipartkey.com/mpngs/m/40-408007_calculator-clipart-black-and-white-transparent-png-calculator.png# geralds-contracting-
+[Gerald's Image]: https://www.clipartkey.com/mpngs/m/40-408007_calculator-clipart-black-and-white-transparent-png-calculator.png# 
